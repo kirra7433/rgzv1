@@ -1,0 +1,148 @@
+[
+    {
+        "day": "monday",
+        "classes": [
+            {
+                "subject": "empty_day"
+            }          
+        ]
+    },
+
+    {
+        "day": "tuesday",
+        "classes": [
+            {
+                "subject": "algebra",
+                "room": "1506",
+                "is_lecture": "True",
+                "start": "08:00",
+                "end": "09:30"
+            },
+            {
+                "subject": "mbks",
+                "room": "20514",
+                "is_lecture": "False",
+                "start": "09:40",
+                "end": "11:10"
+            },
+            {
+                "subject": "upp",
+                "room": "20522",
+                "is_lecture": "True",
+                "start": "11:20",
+                "end": "12:50"
+            }
+         ]
+    },
+
+    {
+        "day": "wednesday",
+        "classes": [
+            {
+                "subject": "opzbd",
+                "room": "20514",
+                "is_lecture": "True",
+                "start": "08:00",
+                "end": "09:30"
+            },
+            {
+                "subject": "opzbd",
+                "room": "20514",
+                "is_lecture": "False",
+                "start": "09:40",
+                "end": "11:10"
+            },
+            {
+                "subject": "standart",
+                "room": "20505",
+                "is_lecture": "True",
+                "start": "11:20",
+                "end": "12:50"
+            },
+            {
+                "subject": "standart",
+                "room": "20512",
+                "is_lecture": "False",
+                "start": "13:20",
+                "end": "14:50"
+            }
+        ]
+    },
+
+    {
+        "day": "thursday",
+        "classes": [
+            {
+                "subject": "zivvprs",
+                "room": "20505",
+                "is_lecture": "True",
+                "start": "08:00",
+                "end": "09:30"
+            },
+            {
+                "subject": "ikt",
+                "room": "20522",
+                "is_lecture": "True",
+                "start": "09:40",
+                "end": "11:10"
+            },
+            {
+                "subject": "upp",
+                "room": "20522",
+                "is_lecture": "False",
+                "start": "11:20",
+                "end": "12:50"
+            },
+            {
+                "subject": "mbks",
+                "room": "20514",
+                "is_lecture": "True",
+                "start": "13:20",
+                "end": "14:50"
+            }
+        ]
+    },
+
+    {
+        "day": "friday",
+        "classes": [
+            {
+                "subject": "tpzas",
+                "room": "20512",
+                "is_lecture": "False",
+                "start": "08:00",
+                "end": "09:30"
+            },
+            {
+                "subject": "tpzas",
+                "room": "20522",
+                "is_lecture": "True",
+                "start": "09:40",
+                "end": "11:10"
+            }
+            
+        ]
+    },
+
+    {
+        "day": "saturday",
+        "classes": [
+            {
+                "subject": "zivvprs",
+                "room": "20512",
+                "is_lecture": "False",
+                "start": "08:00",
+                "end": "09:30"
+            }
+        ]
+    },
+
+    {
+        "day": "sunday",
+        "classes": [
+            {
+                "subject": "empty_day"
+            }
+        ]
+    }
+]
